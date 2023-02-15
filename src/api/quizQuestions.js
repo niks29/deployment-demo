@@ -61,7 +61,7 @@ var quizQuestions = [
   },
   // question #4
   {
-    question: "Have you ever deleted a post because it hasn&#39;t received &#39;enough&#39; likes?",
+    question: "Have you ever deleted a post because it hasn't received enough likes?",
     answers: [
       {
         // briggs, color, letter
